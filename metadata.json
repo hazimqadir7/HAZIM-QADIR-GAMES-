@@ -1,0 +1,6 @@
+{
+  "name": "TRUCK SIMULATOR KASHMIR",
+  "description": "Authentic 3D Himalayan Truck Driving Simulator featuring heavy mountain haulers, Kashmir valleys, NH-44 highway, Jawahar Tunnel, Mughal Road, Peer Ki Gali, and vibrant truck art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
